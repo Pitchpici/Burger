@@ -1,11 +1,11 @@
 # Burger
 
-##Eat the Burger!
+#Eat the Burger!
 
 Created during Week 14 of UNH Coding Bootcamp. The goal was to create a Burger App using Node Express Handlebars and our own ORM. It uses the MVC design pattern, Node and MySQL to query and route data to the app and Handlebars to generate the HTML.
 
 
-##Technologies used
+#Technologies used
 
 Node.js
 MySQL
@@ -20,11 +20,11 @@ Prerequisites
 - Node.js - Download the latest version of Node https://nodejs.org/en/
 - Bootstrap - Add CDN link http://getbootstrap.com/getting-started.html
 
-##Built With
+#Built With
 
 Sublime Text - Text Editor
 Bootstrap - Wireframe
 Sequel Pro
 Authors
 
-Roxana Milea - JS/ Node.js/ Handlebars 
+# Roxana Milea - JS/ Node.js/ Handlebars 
